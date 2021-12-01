@@ -1,5 +1,5 @@
 import pytest
-#from HelloWorld import *
+from HelloWorld import *
 #assert = true or false)
 def test_HelloWorld_NoInput():
     result = HelloWorld()
